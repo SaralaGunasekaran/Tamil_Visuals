@@ -1,0 +1,46 @@
+{
+  "subject": {
+    "main_characters": "[Describe the main people, animals, or characters]",
+    "appearance": "[Traditional Tamil clothing, hairstyles, jewellery, and physical details]",
+    "cultural_identity": "Authentic Tamil culture and heritage",
+    "props": "[Traditional objects, tools, instruments, or accessories]",
+    "expressions": "[Natural facial expressions and emotions]",
+    "historical_period": "Traditional Tamil Nadu, approximately 100 years ago"
+  },
+  "composition": {
+    "shot_type": "[Wide shot / Medium shot / Close-up / Aerial shot]",
+    "camera_angle": "[Eye-level / Low-angle / High-angle]",
+    "framing": "[Describe the arrangement of characters and important objects]",
+    "foreground": "[Important foreground elements]",
+    "midground": "[Main activities and characters]",
+    "background": "[Traditional Tamil village environment]",
+    "visual_balance": "Cinematic composition with clear subject focus and natural depth"
+  },
+  "action": {
+    "main_activity": "[Describe the traditional activity or cultural event]",
+    "supporting_actions": [
+      "[Action 1]",
+      "[Action 2]",
+      "[Action 3]"
+    ],
+    "body_language": "Natural, culturally authentic gestures and movements",
+    "emotions": "Joy, courage, pride, respect, and community spirit"
+  },
+  "location": {
+    "setting": "[Traditional Tamil village / Ancestral house / Temple / Festival ground]",
+    "architecture": "Authentic traditional Tamil architecture",
+    "surroundings": "[Coconut trees, banana plants, village streets, fields, etc.]",
+    "environment": "Authentic rural Tamil Nadu atmosphere",
+    "historical_details": "Period-appropriate surroundings without modern objects"
+  },
+  "esthetic": {
+    "visual_style": "Photorealistic cinematic heritage photography",
+    "mood": "[Energetic / Graceful / Nostalgic / Festive / Peaceful]",
+    "color_palette": "Earthy brown, turmeric yellow, traditional red, cream, deep green, and antique gold",
+    "lighting": "Natural golden sunlight with cinematic shadows",
+    "textures": "Authentic cotton fabrics, traditional materials, natural skin textures, and detailed surroundings",
+    "quality": "Ultra-realistic, highly detailed, 4K, cinematic depth of field",
+    "cultural_authenticity": "Preserve authentic Tamil traditions, clothing, customs, and historical details"
+  },
+  "negative_prompt": "Modern clothing, smartphones, modern buildings, western fashion, plastic objects, artificial jewellery, cartoon appearance, distorted faces, extra fingers, unnatural anatomy, blurry details, text, watermark"
+}
